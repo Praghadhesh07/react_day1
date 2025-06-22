@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
        <h1>Let us see the output of JAVASCRIPT</h1>
+       <p>hey everyone!</p>
        <button onClick={window['alertMsg']} > Click to call msgQAlert</button>
       </header>
     </div>
